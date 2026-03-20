@@ -15,8 +15,8 @@ public class EmailSender {
     // Defina suas credenciais de SMTP aqui
     private static final String SMTP_HOST = "smtp.gmail.com";
     private static final String SMTP_PORT = "587";
-    private static final String SMTP_USER = "a.aurdaneta25472@aeestarreja.pt";  // Substitua pelo seu e-mail
-    private static final String SMTP_PASSWORD = "antoniodepinho0611";  // Substitua pela sua senha (ou senha de aplicativo)
+    private static final String SMTP_USER = "";  // DISCALIMER !!! THIS IS NOT RECOMMENDED XD !!! **Use your email**
+    private static final String SMTP_PASSWORD = "";  // Use your password !!! AGAIN THIS IS NOT RECOMMENDED !!! 
 
     // Método para enviar o e-mail
     public static void enviarEmail(String destinatario, String assunto, String mensagemTexto) {
