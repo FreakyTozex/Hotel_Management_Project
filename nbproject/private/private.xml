@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/VIEW/TelaInicial.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/DTO/UserDTO.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/DTO/QuartoDTO.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/VIEW/TelaTodosClientes.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/DTO/ReservaDTO.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/DTO/ClientesDTO.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/VIEW_QUARTOS/EditarQuartos.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/VIEW/AlterarCliente.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/VIEW/LOGIN.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/VIEW/TelaCliente.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/DAO/QuartoDAO.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/MailSender/EmailSender.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/VIEW/TelaInserirCliente.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/DAO/ReservaDAO.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/DAO/ConexaoDAO.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/DAO/ClienteDAO.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/VIEW_QUARTOS/QuartosDisponiveis.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/DAO/UserDAO.java</file>
+            <file>file:/C:/Users/anton/OneDrive/Escritorio/ProjetoHotel/src/VIEW_RESERVA/Reservas.java</file>
+        </group>
+    </open-files>
+</project-private>
